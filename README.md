@@ -5,6 +5,8 @@ common-zsh-completions
 
 ## Extra completions
 
+- salt
+
 ## Usage
 
 ### Using zsh frameworks
