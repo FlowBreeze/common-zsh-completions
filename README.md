@@ -6,6 +6,7 @@ common-zsh-completions
 ## Extra completions
 
 - salt
+- kubectl
 
 ## Usage
 
