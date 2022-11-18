@@ -17,7 +17,6 @@ common-zsh-completions
 Add below command to your `~/.zshrc`.
 ```
 zinit wait lucid for \
-    atpull'zinit creinstall -q .' \
     depth"1" \
     FlowBreeze/common-zsh-completions
 ```
