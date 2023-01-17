@@ -7,6 +7,7 @@ common-zsh-completions
 
 - salt
 - kubectl
+- helm
 
 ## Usage
 

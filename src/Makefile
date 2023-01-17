@@ -3,3 +3,6 @@ _salt:
 
 _kubectl:
 	kubectl completion zsh > $@
+
+_helm:
+	helm completion zsh > $@
