@@ -1,5 +1,5 @@
 _salt:
-	wget -q 'https://raw.githubusercontent.com/saltstack/salt/develop/pkg/zsh_completion.zsh' -O $@
+	wget -q 'https://raw.githubusercontent.com/saltstack/salt/master/pkg/common/salt.zsh' -O $@
 
 _kubectl:
 	kubectl completion zsh > $@
