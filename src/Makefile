@@ -6,3 +6,6 @@ _kubectl:
 
 _helm:
 	helm completion zsh > $@
+
+_just:
+	just --completions zsh > $@
