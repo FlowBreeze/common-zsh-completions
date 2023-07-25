@@ -9,6 +9,7 @@ common-zsh-completions
 - kubectl
 - helm
 - just
+- [nb](https://github.com/xwmx/nb)
 
 ## Usage
 

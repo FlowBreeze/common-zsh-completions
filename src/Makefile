@@ -9,3 +9,6 @@ _helm:
 
 _just:
 	just --completions zsh > $@
+
+_nb:
+	wget -q 'https://raw.githubusercontent.com/xwmx/nb/master/etc/nb-completion.zsh' -O $@
