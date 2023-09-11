@@ -10,6 +10,7 @@ common-zsh-completions
 - helm
 - just
 - [nb](https://github.com/xwmx/nb)
+- [rofi](https://github.com/davatorium/rofi)
 
 ## Usage
 
