@@ -16,3 +16,6 @@ _just:
 
 _nb:
 	wget -q 'https://raw.githubusercontent.com/xwmx/nb/master/etc/nb-completion.zsh' -O $@
+
+_nerdctl:
+	nerdctl completion zsh > $@

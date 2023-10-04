@@ -11,6 +11,7 @@ common-zsh-completions
 - just
 - [nb](https://github.com/xwmx/nb)
 - [rofi](https://github.com/davatorium/rofi)
+- [nerdctl](https://github.com/containerd/nerdctl)
 
 ## Usage
 
